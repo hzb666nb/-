@@ -8,7 +8,7 @@ import difflib
 
 # 设置API密钥和基础URL
 client = OpenAI(
-    api_key="sk-f17378c4c8fb4cf0b16d4d5a5c7bf50c",
+    api_key="输入您deepseek的API密钥",
     base_url="https://api.deepseek.com/v1"
 )
 
